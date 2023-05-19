@@ -1,5 +1,6 @@
 
 main()
 {
-Func2()
+	Func2()
+	func();
 }
